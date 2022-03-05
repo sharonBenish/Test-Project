@@ -145,7 +145,7 @@ body{
 
 .card:hover{
   animation-duration: 0.25s;
-  box-shadow: 8px 10px 8px #AE0E3699;
+  box-shadow: 5px 5px 5px #AE0E3699;
 }
 
 .card__name {
