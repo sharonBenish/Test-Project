@@ -91,7 +91,7 @@ body{
   animation-name: example;
   animation-duration: 0.25s;
   border-left: 8px solid #AE0E3699;
-  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  box-shadow: 0 5px 10px rgba(0,0,0,0.25), 0 8px 5px rgba(0,0,0,0.22);
 
 }
 
